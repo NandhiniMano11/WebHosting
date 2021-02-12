@@ -1,0 +1,32 @@
+
+.labelval {
+  color: #bdbdbd;
+  font-size: 12px;
+  align-items: "left";
+}
+.highlightlabel {
+  font-size: 14px;
+  background-color: #ffeea9;
+  width: 80%;
+}
+.amountval {
+  color: #bdbdbd;
+  font-size: 12px;
+  align-items: left;
+  margin-top: 5px;
+}
+.benifitLabel {
+  color: #333333;
+  font-size: 12px;
+  align-items: left;
+}
+
+.buttonStyle {
+  background-color: #eba701;
+  text-transform: "capitalize";
+  border-radius: 5px;
+  width: 100px;
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 12px;
+}

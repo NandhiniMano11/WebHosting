@@ -1,0 +1,31 @@
+.title {
+  color: #0f88a7;
+}
+.label {
+  color: #bdbdbd;
+  font-size: 12px;
+  align-items: "left";
+}
+.labelval {
+  color: #000;
+}
+.buglabel {
+  color: #bdbdbd;
+  font-size: 10px;
+  float: right;
+}
+.bugValue {
+  color: #333333;
+  font-size: 12px;
+  float: right;
+}
+.buttonStyle {
+  float: right;
+  background-color: #eba701;
+  text-transform: "capitalize";
+  border-radius: 5px;
+  width: 100px;
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
